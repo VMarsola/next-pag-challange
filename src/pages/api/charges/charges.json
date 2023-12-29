@@ -1,0 +1,51 @@
+[
+	{
+		"debitCode": "db65420f-f5b0-4a47-88a6-7f5064d02cb8",
+		"name": "Tacha Ferragista FR Nº 12 - 16mm",
+		"value": 1200,
+		"status": "IN_PROGRESS",
+		"createdAt": "2023-01-13T18:05:49"
+	},
+	{
+		"debitCode": "03f83aeb-9e89-44b4-bf38-e68d609b1c24",
+		"name": "Prego Quadrado Caverna 5'",
+		"value": 2998,
+		"status": "COMPLETED",
+		"createdAt": "2023-02-12T18:05:49"
+	},
+	{
+		"debitCode": "f176895c-7c93-4e6d-9de2-254f576d01e4",
+		"name": "Prego Inox 10x10 Sem Cab.'",
+		"value": 29425,
+		"status": "COMPLETED",
+		"createdAt": "2023-02-12T18:05:49"
+	},
+	{
+		"debitCode": "85f5151e-6d09-4390-9a83-765843551273",
+		"name": "Grampo 14/48",
+		"value": 5232,
+		"status": "IN_PROGRESS",
+		"createdAt": "2023-02-12T18:05:49"
+	},
+	{
+		"debitCode": "f71f30c2-c687-414e-a3e7-b16ba5352e8f",
+		"name": "Prego Quadrado Caverna 5'",
+		"value": 2998,
+		"status": "IN_PROGRESS",
+		"createdAt": "2023-02-12T18:05:49"
+	},
+	{
+		"debitCode": "c8f7e285-a3ac-47a3-a444-afd03aa12c74",
+		"name": "Vergalhão CA50 - 6,3mm",
+		"value": 3335,
+		"status": "COMPLETED",
+		"createdAt": "2023-02-12T18:05:49"
+	},
+	{
+		"debitCode": "cbba53e1-62e9-4895-bd11-81edb12bcd71",
+		"name": "Arame Galvanizado BWG 18",
+		"value": 2930,
+		"status": "COMPLETED",
+		"createdAt": "2023-02-12T18:05:49"
+	}
+]

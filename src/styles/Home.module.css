@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 6rem 2rem;
+  min-height: 100vh;
+}
+
+.navbar {
+  background-color: #4ea73f;
+  padding: 1rem 6rem;
+}
