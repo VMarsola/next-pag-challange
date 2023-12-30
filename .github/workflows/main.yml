@@ -1,7 +1,7 @@
 name: Build next.js application
 on: push
 jobs:
-  build-´roject:
+  build-project:
   name: Build project
   runs-on: ubuntu-latest
   steps:
